@@ -21,5 +21,8 @@ Future work could expand looking into changes in taxi or uber behavior by region
 
 Multiple exploratory figures generated in the script. The two chosen summaries are the cleaned up versions at the end of each section, which are also reproduced seperately in this project repository.
 
+First - Rideshare fare rate (fare per second, weighted by trip length) by time of day of trip. Data for both all trips, and trips involving airports. Notably, trip fare rate is lowest during rush hour, and highest early morning, lunch time, or evening. From other plots in exploratory script, generally we see fare rate scales inversly with number of trips - so suppy more than meets demand during rush hour.
+
+Second - Taxi tipping rate (tips per second) by month throughout the dataset. We see a clear increase in the tipping rate over time.
 
 
